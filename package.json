@@ -19,6 +19,7 @@
   ],
   "author": "Samuel Cardenas",
   "license": "ISC",
+  "homepage": "https://github.com/samuelcardenasg23/name-generator/#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
     "ejs": "^3.1.9",

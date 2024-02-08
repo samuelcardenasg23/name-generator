@@ -33,7 +33,7 @@ This is a simple Node.js application that generates band names by combining rand
 ## Usage
 
 - Visit the homepage to see a randomly generated band name.
-- Click the submit button to generate a new band name.
+- Click the Generate Name button to generate a new band name.
 - Each time you submit, a new combination of adjective and noun will be displayed.
 
 ## Dependencies
