@@ -8,8 +8,16 @@
     "dev": "node --watch index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelcardenasg23/name-generator"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "ejs"
+  ],
+  "author": "Samuel Cardenas",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
